@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Transformer-based generative large language models (LLMs)",
+  "intended_application": "Human-agent assistance that retrieves approved knowledge and drafts replies during routine customer-support chats; a human approves every reply",
+  "organization": "Harbor Support Services, a fictional incumbent outsourced contact-center provider used as a teaching scenario",
+  "industry_sector": "Business-process outsourcing / customer support",
+  "business_need": "Improve routine-chat handling while protecting service quality and retaining client contracts",
+  "users_stakeholders": "Support agents, supervisors, enterprise clients, and clients' end customers",
+  "adoption_posture": "Moderate / fast follower; considering a limited pilot, not autonomous service",
+  "capabilities_constraints": "Scenario assumptions: 70% of revenue is billed by agent hour; agents use an approved knowledge base; no measured local productivity or renewal data yet; human approval is required",
+  "risk_consequence_context": "Incorrect drafts could mislead customers or breach client promises; human review and escalation are available",
+  "management_question": "Should management pilot agent assistance and prepare for possible pressure on its hourly-pricing model?",
+  "time_horizon": "Next 12 months",
+  "additional_context": "All Harbor details are hypothetical test assumptions, not claims about a real company. Potential alternative pricing is per resolved case or service outcome; no client has yet requested it. Compare current workflow and unit economics before claiming displacement."
+}

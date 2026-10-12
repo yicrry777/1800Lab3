@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Transformer-based generative large language models (LLMs)",
+  "intended_application": "Human-agent assistance that retrieves approved knowledge and drafts replies during routine customer-support chats; a human approves every reply",
+  "organization": "Northstar Components, a fictional mid-size manufacturer with an internal warranty-support desk used as a teaching scenario",
+  "industry_sector": "Manufacturing / internal after-sales support",
+  "business_need": "Reduce routine warranty-chat handling time without reducing answer quality",
+  "users_stakeholders": "Warranty agents, service manager, buyers, and product engineers",
+  "adoption_posture": "Conservative / bounded experiment",
+  "capabilities_constraints": "Scenario assumptions: support is a cost center; product sales, not support hours, produce revenue; one small warranty team; existing approved knowledge base; no measured local productivity or renewal data yet; human approval is required",
+  "risk_consequence_context": "Wrong warranty advice could increase returns and dissatisfaction; human review and escalation are available",
+  "management_question": "Should management run a limited agent-assist test within the warranty team?",
+  "time_horizon": "Next 12 months",
+  "additional_context": "All Northstar details are hypothetical test assumptions, not claims about a real company. The technology and application are intentionally identical to the primary case; only organizational economics and posture differ."
+}
