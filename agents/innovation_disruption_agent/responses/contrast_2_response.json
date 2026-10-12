@@ -1,0 +1,53 @@
+{
+  "agent": {
+    "name": "Innovation and Disruption Agent",
+    "specialty": "innovation classification and business-model disruption",
+    "version": "1.0-student"
+  },
+  "analytical_question": "Can agent assistance be classified as a process innovation without overclaiming Riverton's business-model exposure?",
+  "general_et_finding": "The Transformer is a documented technical invention, and generative LLMs have demonstrated a new general language capability relative to earlier task-specific approaches. Usable LLM-assisted services are innovation; this does not show that a case organization invented the technology or that any particular LLM venture is profitable. The capability-level change may be called breakthrough, but that label alone does not establish market displacement.",
+  "application_finding": "Against the baseline of a human support agent searching an approved knowledge base and composing a chat reply, human-approved retrieval and drafting is a proposed process innovation, not an invention or proven implemented innovation at the case organization. It is provisionally incremental at the workflow level because the human agent still decides and sends each answer. A breakthrough process classification would require evidence of a materially different service architecture or unit economics. The potential value is faster, more consistent routine replies; drafting time may shrink, while human judgment and escalation remain.",
+  "organization_specific_finding": "Riverton's mixed hourly and outcome-based contracts create opposing effects: fewer hours could shrink hourly revenue, while lower cost per case could improve margins on outcome contracts. The case gives no contract split, margins, or renewal response. No channel or human-agent removal is established. Business-Model Disruption Judgment: Moderate (provisional only). High is a plausible alternative if hourly revenue dominates and clients reprice faster than Riverton adapts. A firm single-level forecast is not supportable from this intake.",
+  "evidence": [
+    {
+      "claim": "A proposed process becomes implemented innovation only when brought into use.",
+      "source_or_reference": "OECD/Eurostat, Oslo Manual 2018, chapter 3, https://www.oecd.org/en/publications/oslo-manual-2018_9789264304604-en/full-report/component-9.html",
+      "date_or_recency": "2018; checked 2026-10-12",
+      "evidence_type": "official measurement framework",
+      "notes": "Stage criterion only."
+    },
+    {
+      "claim": "Human-agent assistance has produced a measured productivity gain in one support setting, with variation among workers.",
+      "source_or_reference": "Brynjolfsson, Li and Raymond, Generative AI at Work, NBER Working Paper 31161, https://www.nber.org/papers/w31161",
+      "date_or_recency": "2023 working paper, published 2025; checked 2026-10-12",
+      "evidence_type": "field research",
+      "notes": "Cannot supply Riverton's effect size or commercial outcome."
+    },
+    {
+      "claim": "Riverton is assumed to have mixed pricing with an unknown contract/revenue split.",
+      "source_or_reference": "agents/innovation_disruption_agent/cases/contrast_2.json",
+      "date_or_recency": "Hypothetical scenario dated 2026-10-12",
+      "evidence_type": "teaching-case assumption",
+      "notes": "The missing split is the intended borderline ambiguity."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "High exposure is plausible if hourly contracts dominate and repricing is likely.",
+    "Low exposure is also plausible if outcome-based contracts dominate and support quality improves without revenue erosion.",
+    "No local pilot, contract, margin, or client-behavior evidence separates these interpretations."
+  ],
+  "confidence_and_uncertainty": "High confidence in the distinction between technical invention and proposed process innovation; low confidence in Moderate severity. Moderate is a placeholder scenario judgment, not a finding that business-model effects are measured.",
+  "value_opportunity_implication": "Faster responses may benefit clients; Riverton could capture cost savings on outcome contracts or redesign its offer, subject to measured quality and economics.",
+  "risk_governance_implication": "Moving early could harm answer quality; waiting while clients reprice or competitors improve service could erode value. Neither risk is quantified by the case.",
+  "recommendation_management_implication": "Before adopting a firm severity judgment, obtain revenue and margin by contract type, renewal clauses, pilot productivity and quality, and client repricing signals. Then compare the hourly-erosion and outcome-margin scenarios.",
+  "change_monitoring_triggers": [
+    "Revenue and margin share by pricing model",
+    "Client renewal or repricing requests",
+    "Local cost per resolution and quality in the pilot"
+  ],
+  "abstention_or_more_information_needed": [
+    "Contract and revenue mix before a firm Low/Moderate/High call",
+    "Local productivity, quality, and margins",
+    "Evidence of client substitution or pricing change"
+  ]
+}

@@ -1,14 +1,14 @@
 {
-  "emerging_technology": "REPLACE",
-  "intended_application": "REPLACE",
-  "organization": "REPLACE",
-  "industry_sector": "REPLACE",
-  "business_need": "REPLACE",
-  "users_stakeholders": "REPLACE",
-  "adoption_posture": "REPLACE",
-  "capabilities_constraints": "REPLACE",
-  "risk_consequence_context": "REPLACE",
-  "management_question": "REPLACE",
-  "time_horizon": "REPLACE",
-  "additional_context": ""
+  "emerging_technology": "Transformer-based generative large language models (LLMs)",
+  "intended_application": "Human-agent assistance that retrieves approved knowledge and drafts replies during routine customer-support chats; a human approves every reply",
+  "organization": "Riverton Service Partners, a fictional outsourced support provider used as a borderline teaching scenario",
+  "industry_sector": "Business-process outsourcing / customer support",
+  "business_need": "Improve routine-chat handling and retain contracts",
+  "users_stakeholders": "Agents, clients, and end customers",
+  "adoption_posture": "Moderate / exploratory",
+  "capabilities_constraints": "Scenario assumptions: a mix of hourly and outcome-based contracts, but no revenue split, margins, renewal terms, customer-volume trend, or local productivity results are supplied; human approval is required",
+  "risk_consequence_context": "Incorrect drafts could harm service quality; human review and escalation are available",
+  "management_question": "Is the proposed assistance a process improvement or a threat to the business model?",
+  "time_horizon": "Next 12 months",
+  "additional_context": "All Riverton details are hypothetical. This borderline case tests whether the agent refuses to infer High or Potentially Existential disruption from sector alone."
 }

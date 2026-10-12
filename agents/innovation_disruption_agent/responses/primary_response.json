@@ -1,0 +1,62 @@
+{
+  "agent": {
+    "name": "Innovation and Disruption Agent",
+    "specialty": "innovation classification and business-model disruption",
+    "version": "1.0-student"
+  },
+  "analytical_question": "What kind of innovation is human-approved LLM agent assistance, and how might it reshape Harbor's outsourced-support model over 12 months?",
+  "general_et_finding": "The Transformer is a documented technical invention, and generative LLMs have demonstrated a new general language capability relative to earlier task-specific approaches. Usable LLM-assisted services are innovation; this does not show that a case organization invented the technology or that any particular LLM venture is profitable. The capability-level change may be called breakthrough, but that label alone does not establish market displacement.",
+  "application_finding": "Against the baseline of a human support agent searching an approved knowledge base and composing a chat reply, human-approved retrieval and drafting is a proposed process innovation, not an invention or proven implemented innovation at the case organization. It is provisionally incremental at the workflow level because the human agent still decides and sends each answer. A breakthrough process classification would require evidence of a materially different service architecture or unit economics. The potential value is faster, more consistent routine replies; drafting time may shrink, while human judgment and escalation remain.",
+  "organization_specific_finding": "Harbor is hypothetically new to this use, not globally first. Its current proposition is staffed customer support, with 70% of revenue assumed to be billed by agent hour. Agent assistance could reduce routine handling time and cost; if clients demand fewer billable hours or outcome pricing, the hourly revenue unit and labor-scale advantage may lose value. A verified knowledge base, quality control, and outcome-based service could gain value. No channel or intermediary replacement is established because the human agent and client relationship remain. Business-Model Disruption Judgment: High (conditional scenario). The route to core revenue pressure is credible given the assumed exposure, but its likelihood and margin effect are unmeasured; Moderate is a plausible competing judgment if cost savings, higher volume, or contract terms offset fewer hours. Potentially Existential is unsupported because adaptation and survival constraints have not been tested.",
+  "evidence": [
+    {
+      "claim": "Innovation requires a significantly changed product or process to be made available or brought into use; proposal alone is insufficient for implemented innovation.",
+      "source_or_reference": "OECD/Eurostat, Oslo Manual 2018, chapter 3, https://www.oecd.org/en/publications/oslo-manual-2018_9789264304604-en/full-report/component-9.html",
+      "date_or_recency": "2018; checked 2026-10-12",
+      "evidence_type": "official measurement framework",
+      "notes": "Used as a stage criterion, not evidence that Harbor has deployed the tool."
+    },
+    {
+      "claim": "The Transformer introduced an attention-based sequence model, supporting the technical-origin classification.",
+      "source_or_reference": "Vaswani et al., Attention Is All You Need, NeurIPS 2017, https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+      "date_or_recency": "2017; checked 2026-10-12",
+      "evidence_type": "original research paper",
+      "notes": "Technical origin; does not establish Harbor's innovation or disruption."
+    },
+    {
+      "claim": "A field study of a generative-AI conversational assistant found a 14% average increase in issues resolved per hour among 5,179 support agents, with heterogeneous effects.",
+      "source_or_reference": "Brynjolfsson, Li and Raymond, Generative AI at Work, NBER Working Paper 31161, https://www.nber.org/papers/w31161",
+      "date_or_recency": "2023 working paper, published 2025; checked 2026-10-12",
+      "evidence_type": "field research",
+      "notes": "Shows a plausible assistance mechanism in one observed setting; not a forecast for Harbor or proof of contract repricing."
+    },
+    {
+      "claim": "Seventy percent of Harbor's revenue is assumed to be billed by agent hour; no local productivity or client repricing evidence is given.",
+      "source_or_reference": "agents/innovation_disruption_agent/cases/primary.json",
+      "date_or_recency": "Hypothetical scenario dated 2026-10-12",
+      "evidence_type": "teaching-case assumption",
+      "notes": "It creates a test exposure, not an empirical claim about a real firm."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Human-approved assistance can coexist with a staffed service; it is not autonomous substitution.",
+    "Faster handling could reduce labor cost, permit more volume, or improve retention, offsetting fewer billable hours; contract terms and margins are unknown.",
+    "NBER's measured effect may not transfer to Harbor's task mix, staff, or knowledge base."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence in the process-innovation classification and the exposure mechanism; low confidence in the size or timing of revenue displacement. High is a conditional stress-case judgment, not an observed outcome. Competing Moderate impact remains viable.",
+  "value_opportunity_implication": "Agents and clients may gain faster routine resolution. Harbor might capture margin or quality gains and could test outcome-based offerings, but no new profitable offer is yet established.",
+  "risk_governance_implication": "Moving too early could harm answer quality and client trust; failing to respond while clients or rivals shift toward faster or outcome-priced service could weaken Harbor's labor-scale advantage. Review drafts, track errors and escalations, and avoid claiming autonomous replacement.",
+  "recommendation_management_implication": "Run a bounded human-approved pilot and compare resolution quality, issues per hour, total labor cost, billable hours, margin per contract, and client pricing requests with the current workflow. Test a repricing scenario before changing the service model. Pass adoption timing, organizational readiness, diffusion, and competitor mapping to their respective specialists.",
+  "change_monitoring_triggers": [
+    "Measured pilot productivity and quality versus baseline",
+    "Client contract repricing or renewal terms",
+    "Margin per contract and volume response after any hours reduction",
+    "Evidence that clients substitute self-service for staffed support"
+  ],
+  "abstention_or_more_information_needed": [
+    "Actual Harbor-like contract terms, margins, and customer concentration before a firm severity forecast",
+    "Local task mix, quality, and productivity measurements",
+    "Client demand for outcome pricing and evidence of competitor substitution",
+    "Profitability evidence before calling Harbor's proposed offer commercialized"
+  ]
+}
