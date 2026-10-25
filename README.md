@@ -26,3 +26,7 @@ Students specialize the files under `agents/<agent-name>/`. Files under `core/` 
 **No OpenAI API key is required by this scaffold.** It does not call the OpenAI API. ChatGPT is the interactive model runtime; the Python tools are local prompt/validation utilities.
 
 Start with `START_HERE.md` and the Student Operating Guide in `docs/`.
+
+## Completed Assignment 3
+
+The final [Innovation and Disruption Agent](agents/innovation_disruption_agent/README.md) and [Shuoying Wang Agent Record](agents/innovation_disruption_agent/records/Shuoying_Wang_Assignment_3_Agent_Record.docx) are included on `main`. The agent folder preserves its cases, structured responses, weak first trial, revision, and test instructions.
